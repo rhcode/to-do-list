@@ -2,9 +2,9 @@ import Rebase from 're-base'
 import firebase from 'firebase'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDr3cKtszUWfAXHd5uBNANZlILWYU22sVs",
-  authDomain: "task-manager-1-e7f4f.firebaseapp.com",
-  databaseURL: "https://task-manager-1-e7f4f.firebaseio.com"
+  apiKey: "your api key goes here",
+  authDomain: "your authdomain",
+  databaseURL: "your database url goes here"
 }
 
 const firebaseApp = firebase.initializeApp(firebaseConfig)
