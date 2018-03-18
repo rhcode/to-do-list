@@ -6,8 +6,8 @@ class Banner extends React.Component {
       <nav className="navbar navbar-light bg-light">
         <div className="container">
           <a className="navbar-brand" href="http://www.google.com">
-            <span className="fa fa-grav"></span>
-            <span className="fa fa-grav"></span>
+            <span className="fa fa-grav">&nbsp;</span>
+            <span className="fa fa-grav">&nbsp;</span>
             2018 Hackathon
           </a>
         </div>
