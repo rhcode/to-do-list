@@ -1,0 +1,16 @@
+body {
+    background-color: #EEEEEE
+}
+.main-area {
+    min-height: 600px;
+}
+.tasks>li {
+    list-style: none;
+    padding: 10px;
+    font-size: 20pt;
+    color: #777777;
+}
+.tasks>li:first-child {
+    font-size: 30pt;
+    color: #333333;
+}
